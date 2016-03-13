@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Gasandelec-Brighton]]></title>
         <description><![CDATA[Gasandelec-Brighton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gasandelec-brighton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:21:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 16:31:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gasandelec-brighton/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://gasandelectricityengineers.co.uk/img/navig/ng3.gif?87">]]></description>
-            <link>undefinedsearch-search-engine-powered-by-translate/index.html</link>
+            <description><![CDATA[<p> GAS SAFE ENGINEERS</p>]]></description>
+            <link>http://www.gasandelec.co.uk/</link>
             <guid isPermaLink="false">28ba9d33-f7c2-4c78-8646-83be4850954c</guid>
-            <pubDate>Sun, 13 Mar 2016 16:20:27 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 16:30:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
