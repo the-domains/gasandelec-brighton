@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.gasandelec.co.uk/'
 inLanguage: null
 starred: false
 keywords: []
-description: "\_GAS SAFE ENGINEERS"
-datePublished: '2016-03-13T16:30:33.709Z'
-dateModified: '2016-03-13T16:30:24.487Z'
+description: GAS SAFE ENGINEERS
+datePublished: '2016-03-17T01:47:53.362Z'
+dateModified: '2016-03-17T01:47:44.775Z'
 author: []
 title: ''
 sourcePath: _posts/2016-03-13-search-search-engine-powered-by-translate.md
